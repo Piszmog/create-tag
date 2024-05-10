@@ -1,4 +1,4 @@
-#!/usr/bin/zsh
+#!/bin/sh
 
 version=$(jq -r .version package.json)
 
