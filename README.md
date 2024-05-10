@@ -46,4 +46,5 @@ jobs:
 To update GitHub action that is pulled by users,
 
 1. Update the version in `package.json`
-2. Run `./moveMajor.sh`
+2. Create a release/tag matching the version in `package.json`
+3. Run `./moveMajor.sh`
