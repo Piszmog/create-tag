@@ -1,4 +1,4 @@
-name: 'Create Tag'
+name: 'Create Git Tag'
 description: 'Tag a git commit with a semantic version'
 author: 'Piszmog'
 branding:
