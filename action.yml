@@ -1,6 +1,6 @@
 name: 'Create Tag'
 description: 'Tag a git commit with a semantic version'
-author: 'Nic Cope'
+author: 'Piszmog'
 branding:
     icon: git-commit
     color: white
@@ -15,5 +15,5 @@ inputs:
     description: 'Tag message'
     required: true
 runs:
-  using: 'node12'
+  using: 'node20'
   main: 'dist/index.js'
