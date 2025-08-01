@@ -1,6 +1,6 @@
 {
   "name": "create-tag",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create a tag from your respository",
   "main": "src/main.js",
   "scripts": {
